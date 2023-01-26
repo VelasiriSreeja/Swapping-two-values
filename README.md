@@ -30,7 +30,7 @@ print("Swapped values are:",var1,var2)
 ```
 
 ## Output:
-!['OUTPUT'](Screenshot%20from%202023-01-23%2022-04-31.png)
+!['OUTPUT'](Screenshot%20from%202023-01-26%2008-20-17.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
